@@ -1,8 +1,3 @@
-# SSCC-NVE-Generator-in-T-SQL
-Хорошо 👍 Ниже заготовка статьи для GitHub (можно оформить как README.md), где объясняется генерация SSCC/NVE в SQL с примером кода:
-
----
-
 # SSCC (NVE) Generator in T-SQL
 
 This project demonstrates how to generate **SSCC / NVE codes** in Microsoft SQL Server according to the GS1 standard.

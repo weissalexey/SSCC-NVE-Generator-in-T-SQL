@@ -106,6 +106,3 @@ AI(00):   00342607084828513360
 * Export as **GS1-128 barcode** for printing labels.
 
 ---
-
-👉 Would you like me to extend this into a **ready-to-use stored procedure** (`sp_GenerateNVE`) so you can call it like `EXEC sp_GenerateNVE @Count=100` and get back a table of new NVEs?
-****

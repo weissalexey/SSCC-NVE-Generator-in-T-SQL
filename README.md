@@ -1,0 +1,1 @@
+# SSCC-NVE-Generator-in-T-SQL
